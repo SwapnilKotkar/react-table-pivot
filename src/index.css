@@ -15,21 +15,21 @@ td {
   /* border: none; */
 }
 thead tr:nth-child(1) {
-  background-color: hsl(354, 100%, 60%);
+  background-color: #0002A1;
   color: #fff;
   text-align: center;
 }
 thead tr:nth-child(2) {
-  background-color: hsl(354, 100%, 70%);
+  background-color: #2b2edf;
   color: #fff;
 }
 tfoot tr:nth-child(2) {
-  background-color: hsl(354, 100%, 60%);
+  background-color: #0002A1;
   color: #fff;
   text-align: center;
 }
 tfoot tr:nth-child(1) {
-  background-color: hsl(354, 100%, 70%);
+  background-color: #2b2edf;
   color: #fff;
 }
 thead {
@@ -40,15 +40,15 @@ thead td {
   border: none;
 }
 .depth-0 {
-  background-color: #ffbfc5;
+  background-color: #bfddf0;
 }
 
 .depth-1 {
-  background-color: #a8d1e7;
+  background-color: #d9e8f1;
 }
 
 .depth-2 {
-  background-color: #fee5e0;
+  background-color: #EFF5F5;
 }
 
 button {
